@@ -317,7 +317,6 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
             EZ Baccarat Pattern
             Frequency Analyzer
         </h1>
-        </br>
         <p class="author">
             Developed by: Long Nguyen
         </p>
